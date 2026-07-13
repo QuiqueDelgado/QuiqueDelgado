@@ -53,9 +53,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://www.linkedin.com/in/enrique-delgado-gonzalez-28854719b"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
+<a href="https://www.linkedin.com/in/enrique-delgado-gonzalez-28854719b"><img src="https://www.linkedin.com/in/enrique-delgado-gonzalez-28854719b"/></a>
 </p>
 
 -----
