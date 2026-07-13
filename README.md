@@ -53,6 +53,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/enrique-delgado-gonzalez-28854719b" target="_blank" rel="noopener noreferrer">
-    <i class="fa-brands fa-linkedin"></i>
 </a>
 </p>
