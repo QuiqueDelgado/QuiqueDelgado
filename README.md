@@ -53,6 +53,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/enrique-delgado-gonzalez-28854719b"><img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7e655044-3cb1-44ce-bbe2-97cf3c57c02f" />
+<a href="https://www.linkedin.com/in/enrique-delgado-gonzalez-28854719b"><img src="https://img.shields.io/badge/Enrique%20Delgado?style=social&logoColor=%230000FF&logoSize=auto&label=healthiness&labelColor=%23FFFFFF&color=%23FFFFFF
+" />
 "/></a>
 </p>
