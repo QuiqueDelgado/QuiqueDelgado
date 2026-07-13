@@ -53,5 +53,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/enrique-delgado-gonzalez-28854719b"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/enrique-delgado-gonzalez-28854719b"><img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7e655044-3cb1-44ce-bbe2-97cf3c57c02f" />
+"/></a>
 </p>
