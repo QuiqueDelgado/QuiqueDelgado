@@ -53,10 +53,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/enrique-delgado-gonzalez-28854719b"><img src="https://www.linkedin.com/in/enrique-delgado-gonzalez-28854719b"/></a>
+<a href="https://www.linkedin.com/in/enrique-delgado-gonzalez-28854719b"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
-
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
